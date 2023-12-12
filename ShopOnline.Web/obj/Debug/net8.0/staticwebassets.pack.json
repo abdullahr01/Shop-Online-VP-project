@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopOnline.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopOnline.Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopOnline.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopOnline.Web.props",
+      "PackagePath": "build\\ShopOnline.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopOnline.Web.props",
+      "PackagePath": "buildMultiTargeting\\ShopOnline.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopOnline.Web.props",
+      "PackagePath": "buildTransitive\\ShopOnline.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
