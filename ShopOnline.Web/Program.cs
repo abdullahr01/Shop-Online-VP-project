@@ -1,10 +1,16 @@
 using ShopOnline.Web.Components;
+using ShopOnline.Web.Services;
+using ShopOnline.Web.Services.Contracts;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7181/") });
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IShoppingCartService, ShoppingCartService>();
 
 var app = builder.Build();
 

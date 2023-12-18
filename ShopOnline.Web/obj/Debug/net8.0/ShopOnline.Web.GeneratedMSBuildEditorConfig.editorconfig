@@ -26,12 +26,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/DisplayError.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEaXNwbGF5RXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/DisplayProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEaXNwbGF5UHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+[D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG9wcGluZ0NhcnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Softwares/Blazor/ShopOnlineCartProject/ShopOnlineSolution/ShopOnline.Web/Components/Pages/Weather.razor]

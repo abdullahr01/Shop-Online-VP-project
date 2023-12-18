@@ -4,14 +4,14 @@
     "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
+    "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
-        "projectName": "ShopOnline.Api",
-        "projectPath": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+        "projectUniqueName": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectName": "ShopOnline.Models",
+        "projectPath": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Api\\obj\\",
+        "outputPath": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,22 +39,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -67,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -102,8 +83,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj": {
-                "projectPath": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj"
+              "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "D:\\Softwares\\Blazor\\ShopOnlineCartProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
               }
             }
           }

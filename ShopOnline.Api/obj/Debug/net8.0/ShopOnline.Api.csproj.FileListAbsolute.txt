@@ -134,3 +134,6 @@ D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\obj\
 D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net8.0\ShopOnline.Api.pdb
 D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net8.0\ShopOnline.Api.genruntimeconfig.cache
 D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net8.0\ref\ShopOnline.Api.dll
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net8.0\ShopOnline.Models.dll
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net8.0\ShopOnline.Models.pdb
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net8.0\ShopOnline.Api.sourcelink.json

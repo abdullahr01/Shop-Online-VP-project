@@ -1,0 +1,65 @@
+﻿@inherits DisplayProductsBase
+
+<style>
+    /* Base styles */
+    a {
+        text-decoration: none;
+        color: #333; /* Link color */
+    }
+
+    .card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        overflow: hidden;
+        transition: box-shadow 0.3s ease-in-out;
+    }
+
+        .card:hover {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+
+        .card img {
+            max-width: 100%;
+            height: auto;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .card:hover img {
+            transform: scale(1.05);
+        }
+
+    .card-body {
+        padding: 12px;
+    }
+
+    .card-title {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+
+    .card-text {
+        color: #666;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+</style>
+@foreach (var item in Products)
+{
+    <div class="col-md-3 mb-2">
+        <a href = "/ProductDetails/@item.Id">
+            <div class="card">
+                <img class="img-thumbnail" src="@item.ImageURL">
+                <div class="card-body">
+                    <h5 class="card-title mb-3">
+                        @item.Name
+                    </h5>
+                    <p class="card-text">
+                        <b>
+                            @item.Price.ToString("C")
+                        </b>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+}

@@ -1,0 +1,12 @@
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net8.0\ShopOnline.Models.deps.json
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net8.0\ShopOnline.Models.dll
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net8.0\ShopOnline.Models.pdb
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.AssemblyInfoInputs.cache
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.AssemblyInfo.cs
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.sourcelink.json
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.dll
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\refint\ShopOnline.Models.dll
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ShopOnline.Models.pdb
+D:\Softwares\Blazor\ShopOnlineCartProject\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net8.0\ref\ShopOnline.Models.dll
